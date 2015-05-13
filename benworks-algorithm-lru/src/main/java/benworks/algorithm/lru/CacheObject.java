@@ -1,5 +1,9 @@
 package benworks.algorithm.lru;
 
+/**
+ * test
+ * @author Ben
+ */
 public class CacheObject {
 	long pushtime = 0;
 	int usetimes = 0;
