@@ -26,8 +26,7 @@ public class CacheObject {
 	}
 
 	/**
-	 * @param usetimes
-	 *            The usetimes to set.
+	 * @param usetimes The usetimes to set.
 	 */
 	public final void setUsetimes(int usetimes) {
 		this.usetimes = usetimes;
@@ -41,8 +40,7 @@ public class CacheObject {
 	}
 
 	/**
-	 * @param value
-	 *            The value to set.
+	 * @param value The value to set.
 	 */
 	public final void setValue(Object value) {
 		this.value = value;
